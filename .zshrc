@@ -10,7 +10,7 @@ fi
 export PATH="$HOME/.pyenv/shims:$PATH"
 
 # Path to your oh-my-zsh installation.
-export ZSH="$HOME/.oh-my-zsh"
+export ZSH="${HOME}/.oh-my-zsh"
 export NVM_DIR="$HOME/.nvm"
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home
 export ANDROID_SDK_ROOT=$HOME/Library/Android/sdk
